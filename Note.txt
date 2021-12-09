@@ -1,0 +1,13 @@
+Buoi1
+Component
+jsx tổng hợp html vs js
+- StateFul Component: class
+- Stateless Component: function
+Buoi2
+Install BS4
+Rendering Elements
+Handlimg Events
+State: State thay đổi => render lại
+Buoi3
+Props cha => con 
+lifting state up con => cha
